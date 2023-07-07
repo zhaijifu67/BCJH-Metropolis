@@ -238,3 +238,4 @@ int banquetRule13(BanquetStrictRule **strictRule, BanquetLenientRule **lenientRu
 	}
 	return 40;
 }
+#endif
